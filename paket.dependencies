@@ -7,6 +7,7 @@ nuget Expecto
 nuget Expecto.FsCheck
 nuget FsCheck
 nuget Microsoft.NET.Test.Sdk
+nuget MSBuild.StructuredLogger
 nuget YoloDev.Expecto.TestSdk
 
 group Formatting
